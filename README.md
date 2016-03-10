@@ -4,15 +4,19 @@
 
 **Author:** Lisa Dong
 
-**Due date:** _\<date\>_
+**Due date:** 3/11/16
 
 ## Description
 
-_\<Give a description of the assignment here. Often this will be copied from the text.\>_
+-from text, complete exercises 2.17 and 2.18
+-import turtle and create n-gons and n-stars 
+
 
 ## What I Learned from This
 
-_\<Explain what you learned from this assignment. This should be in your own words.\>_
+-how to create turtles, make them go forward, turn, and disappear
+-determine whether a statement is true or false
+-after enough repetition, sometimes programs can have errors in rounding 
 
 ## Honor Pledge
 
